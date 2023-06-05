@@ -51,3 +51,11 @@
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
+.ico {
+    display: flex;
+}
+
+.icon {
+    width: 25px;
+}
