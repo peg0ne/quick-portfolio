@@ -59,3 +59,11 @@
 .icon {
     width: 25px;
 }
+
+.contact {
+    padding-top: 10px;
+}
+
+.inverse {
+    filter: invert(100%);
+}
